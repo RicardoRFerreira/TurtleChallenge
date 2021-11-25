@@ -1,0 +1,27 @@
+{
+    "board": {
+        "height": 4,
+        "width": 5
+    },
+    "startingPosition": {
+        "tile": {
+            "x": 1,
+            "y": 3
+        },
+        "orientation": "up"
+    },
+    "exitPoint": {
+        "x": 5,
+        "y": 4
+    },
+    "mines": [
+        {
+            "x": 2,
+            "y": 3
+        },
+        {
+            "x": 4,
+            "y": 3
+        }
+    ]
+}
